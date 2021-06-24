@@ -24,10 +24,43 @@ section{
 } */
 **********************************
 
-img{
-    width: 20%;
+#avatar{
+    height: 50px;
+    width: 200px;
 }
 
-.green{
-    background-color: yellow;
+.avatar{
+    background-color:rgb(22, 241, 95);
+text-align: center;
+
 }
+
+.avart-col{
+    margin-bottom: 50px;
+}
+
+
+
+img {
+    max-width: 100%;
+}
+
+#portfolio{
+    text-align: center;
+}
+
+#portfolio h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#about{
+    background-color:rgb(22, 241, 95) ;
+}
+
+#about h2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
